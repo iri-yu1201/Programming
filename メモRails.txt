@@ -1,0 +1,19 @@
+Rails
+
+
+4章　エラー直せない
+　　params. 値がないor空
+
+
+argument: 引数
+authentication: 認証
+denied: 拒否された
+nil: 空（から）
+permission: 許可、認証
+resolve: 解決する
+such: そのような
+syntax: 文法
+unable: ～できない
+undefined: 定義されていない
+unexpected: 予期されていない≒正しくない
+uninitialized: 定義されていない
